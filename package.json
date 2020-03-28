@@ -1,12 +1,16 @@
 {
-  "name": "meem",
+  "name": "simple-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "It's simple.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "author": "",
+  "engines": {
+    "node": "13.10.1",
+    "npm": "6.14.4"
+  },
+  "author": "aplet123",
   "license": "ISC"
 }
